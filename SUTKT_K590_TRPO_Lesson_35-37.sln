@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUTKT_K590_TRPO_Lesson_35-37", "SUTKT_K590_TRPO_Lesson_35-37\SUTKT_K590_TRPO_Lesson_35-37.csproj", "{90FA1C3B-EF45-4589-BA03-BAFA85E5F311}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLoader", "FileLoader\FileLoader.csproj", "{05442F08-4700-425F-A7B1-2497FC5EA3C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90FA1C3B-EF45-4589-BA03-BAFA85E5F311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90FA1C3B-EF45-4589-BA03-BAFA85E5F311}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90FA1C3B-EF45-4589-BA03-BAFA85E5F311}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90FA1C3B-EF45-4589-BA03-BAFA85E5F311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05442F08-4700-425F-A7B1-2497FC5EA3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05442F08-4700-425F-A7B1-2497FC5EA3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05442F08-4700-425F-A7B1-2497FC5EA3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05442F08-4700-425F-A7B1-2497FC5EA3C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
