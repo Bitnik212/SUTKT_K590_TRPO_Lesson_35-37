@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequest", "WebRequest\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWebRequest", "FileWebRequest\FileWebRequest.csproj", "{474670CB-DBA3-47AA-B620-295EA3D19A15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS", "DNS\DNS.csproj", "{5535C736-40AA-4E6D-8D63-79581C3867A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{474670CB-DBA3-47AA-B620-295EA3D19A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{474670CB-DBA3-47AA-B620-295EA3D19A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{474670CB-DBA3-47AA-B620-295EA3D19A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5535C736-40AA-4E6D-8D63-79581C3867A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5535C736-40AA-4E6D-8D63-79581C3867A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5535C736-40AA-4E6D-8D63-79581C3867A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5535C736-40AA-4E6D-8D63-79581C3867A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
